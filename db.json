@@ -27,7 +27,7 @@
   ],
   "profile": {
     "name": "typicode"
-  },"products" = [
+  },"products": [
   {
     name: 'Phone XL',
     price: 799,

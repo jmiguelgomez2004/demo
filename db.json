@@ -62,5 +62,11 @@
     "type": "Postal",
     "price": 92.99
   }
-  ]
+  ],
+"intervals": [
+  {
+    "startDate": '2020-07-13T03:00:00Z',
+    "duration": 60
+  }
+],  
 }
